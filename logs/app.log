@@ -1,0 +1,5 @@
+2024-12-05 17:48:01.119 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\eclipse_new_workspace\Selenium_Grid_TT\master.xml
+
+2024-12-05 17:49:06.129 [main] INFO  t.TC_AcctReg - Reg Starts
+2024-12-05 17:49:06.721 [main] INFO  t.TC_AcctReg - Details Entered
